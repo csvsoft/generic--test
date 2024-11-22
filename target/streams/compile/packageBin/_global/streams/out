@@ -1,0 +1,13 @@
+[debug] Packaging /Users/ruquanzhang/workspace/spark/generic-test/target/scala-2.12/spark-generic-test_2.12-0.1.0.jar ...
+[debug] Input file mappings:
+[debug] 	logback.xml
+[debug] 	  /Users/ruquanzhang/workspace/spark/generic-test/target/scala-2.12/classes/logback.xml
+[debug] 	com
+[debug] 	  /Users/ruquanzhang/workspace/spark/generic-test/target/scala-2.12/classes/com
+[debug] 	com/example
+[debug] 	  /Users/ruquanzhang/workspace/spark/generic-test/target/scala-2.12/classes/com/example
+[debug] 	com/example/SparkApp$.class
+[debug] 	  /Users/ruquanzhang/workspace/spark/generic-test/target/scala-2.12/classes/com/example/SparkApp$.class
+[debug] 	com/example/SparkApp.class
+[debug] 	  /Users/ruquanzhang/workspace/spark/generic-test/target/scala-2.12/classes/com/example/SparkApp.class
+[debug] Done packaging.

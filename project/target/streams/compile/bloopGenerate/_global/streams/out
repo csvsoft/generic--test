@@ -1,0 +1,4 @@
+[debug] [generic-test-build] Classpath dependencies List()
+[debug] [generic-test-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'generic-test-build' to '/Users/ruquanzhang/workspace/spark/generic-test/project/.bloop/generic-test-build.json'
+[success] Generated .bloop/generic-test-build.json
